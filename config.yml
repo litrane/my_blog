@@ -1,6 +1,6 @@
 baseURL: https://www.sulvblog.cn # 绑定的域名
 languageCode: zh-cn # en-us
-title: Sulv's Blog
+title: Litrane's Blog
 theme: hugo-PaperMod  # 主题名字，和themes文件夹下的一致
 
 enableInlineShortcodes: true
@@ -91,7 +91,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: ""
-  author: Sulv
+  author: Litrane
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto  # defaultTheme: light or  dark
@@ -115,7 +115,7 @@ params:
   comments: true
   socialIcons:
     - name: github
-      url: "https://github.com/xyming108"
+      url: "https://github.com/litrane"
     - name: twitter
       url: "img/twitter.png"
     - name: facebook
@@ -134,7 +134,7 @@ params:
       url: "index.xml"
 
   label: # 左上角图标
-    text: "Sulv's Blog"
+    text: "Litrane's Blog"
     icon: "img/Q.gif"
     iconHeight: 35
 
@@ -163,10 +163,10 @@ params:
     minMatchCharLength: 0
     keys: [ "title", "permalink", "summary" ]
 
-  StartYear: 2020 # 底部开始年份
-  FilingNo: 填写自己的备案号 # 底部备案号
-  PublicSecurityIconLink: 填自己的公安图标链接 # 填自己的公安图标链接,可用绝对路径，相对路径如 img/beian.png
-  PublicNetworkSecurity: 填自己的公网安备 # 底部公网安备号
+  StartYear: 2022 # 底部开始年份
+  #FilingNo: 填写自己的备案号 # 底部备案号
+  #PublicSecurityIconLink: 填自己的公安图标链接 # 填自己的公安图标链接,可用绝对路径，相对路径如 img/beian.png
+  #PublicNetworkSecurity: 填自己的公网安备 # 底部公网安备号
 
   Reward: true #打赏是否开启
   # 打赏微信图片地址，
