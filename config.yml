@@ -1,4 +1,4 @@
-baseURL: https://www.litrane.top # 绑定的域名
+baseURL: http://blog.litrane.top # 绑定的域名
 languageCode: zh-cn # en-us
 title: Litrane's Blog
 theme: hugo-PaperMod  # 主题名字，和themes文件夹下的一致
